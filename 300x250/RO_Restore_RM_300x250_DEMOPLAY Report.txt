@@ -1,0 +1,178 @@
+﻿RO_Restore_RM_300x250_DEMOPLAY.swf Movie Report
+------------------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       949    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2011-07-01T06:25:10-06:00</xmp:CreateDate> <xmp:MetadataDate>2013-10-23T11:22:54-04:00</xmp:MetadataDate> <xmp:ModifyDate>2013-10-23T11:22:54-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:766D89BA3420681188C6B7D4BE6FD077</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:766D89BA3420681188C6B7D4BE6FD077</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:8D93E61A092068118083EFADDC5BDBBE</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:756D89BA3420681188C6B7D4BE6FD077</stRef:instanceID> <stRef:documentID>xmp.did:5741BC5D2B2068118C149F1F9CD69A71</stRef:documentID> <stRef:originalDocumentID>xmp.did:8D93E61A092068118083EFADDC5BDBBE</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         139444         139444    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1             29             0                 63259
+
+Symbol                                                          Shape Bytes    Text Bytes    ActionScript Bytes
+------------------------------------------------------------    -----------    ----------    ------------------
+_picker1                                                                  0             0                     0
+_picker2                                                                  0             0                     0
+_picker3                                                                  0             0                     0
+_picker4                                                                  0             0                     0
+arrows                                                                    0             0                     0
+back_mc                                                                   0             0                     0
+bg2                                                                       0             0                     0
+btn                                                                      26             0                     0
+btn1                                                                      0             0                     0
+btn1 copy                                                                 0             0                     0
+btn2                                                                      0             0                     0
+bucketoverlay                                                             0             0                     0
+BAR_OPTIONS                                                              67            27                     0
+BAR_OPTIONS2                                                             39            28                     0
+BucketSlider_mc                                                           0             0                     0
+circle                                                                   47             0                     0
+Close Button                                                              0             0                     0
+Close Button Graphic                                                     41             0                     0
+DISBLBUTTON                                                               0             0                     0
+pause                                                                     0             0                     0
+pause_graphic                                                            95             0                     0
+pause_graphic_disabled                                                   95             0                     0
+play                                                                      0             0                     0
+play_graphic                                                             87             0                     0
+play_graphic_disabled                                                    87             0                     0
+PauseButton                                                               0             0                     0
+PlayButton                                                                0             0                     0
+replay                                                                   27             0                     0
+replay_graphic                                                          149             0                     0
+replay_graphic_disabled                                                 147             0                     0
+Load Bar                                                                 27             0                     0
+scrubberborder_graphic                                                   46             0                     0
+seekbar_graphic                                                          55             0                     0
+Scrubber                                                                  0             0                     0
+Scrubber Frame                                                            0             0                     0
+mute                                                                      0             0                     0
+mute_graphic                                                              0             0                     0
+mute_graphic_disabled                                                     0             0                     0
+unmute                                                                   43             0                     0
+unmute_graphic                                                            0             0                     0
+unmute_graphic_disabled                                                   0             0                     0
+Video Sound Off Buttons                                                   0             0                     0
+Video Sound On Buttons                                                    0             0                     0
+stop                                                                      0             0                     0
+stop_graphic                                                              0             0                     0
+stop_graphic_disabled                                                     0             0                     0
+DRM_circles                                                               0             0                     0
+fb_icon                                                                   0             0                     0
+highlight                                                                36             0                     0
+<Path>                                                                    0             0                     0
+<Path>_3                                                                  0             0                     0
+loadimages_mc                                                             0             0                     0
+mask_mc                                                                  30             0                     0
+movitippoint                                                             44             0                     0
+pt_icon                                                                  47             0                     0
+replaybtnspin                                                             0             0                     0
+rolloverSocialMC                                                          0             0                     0
+rplypl                                                                    0             0                     0
+soundduisaL                                                               0             0                     0
+Symbol 1                                                                  0             0                     0
+Symbol 2                                                                  0             0                     0
+Symbol 74                                                                 0             0                     0
+Symbol 77                                                                 0             0                     0
+Symbol 78                                                                 0             0                     0
+Symbol 80                                                                 0             0                     0
+Symbol 94                                                                 0             0                     0
+Symbol 97                                                                 0             0                     0
+Symbol 102                                                                0             0                     0
+Symbol 114                                                                0             0                     0
+Symbol 164                                                                0             0                     0
+Symbol 166                                                                0             0                     0
+Symbol 168                                                                0             0                     0
+Symbol 169                                                                0             0                     0
+Symbol 173                                                                0             0                     0
+Symbol 174                                                                0             0                     0
+Symbol 175                                                                0             0                     0
+Symbol 176                                                                0             0                     0
+Symbol 177                                                                0             0                     0
+Symbol 178                                                                0             0                     0
+Symbol 179                                                                0             0                     0
+Symbol 210                                                                0             0                     0
+textlink'                                                                 0            61                     0
+tooltip_bucket                                                            0             0                     0
+tooltip_mc                                                               55             0                     0
+tooltip1                                                                  0            47                     0
+tooltip2                                                                  0            44                     0
+tooltip3                                                                  0            46                     0
+tooltip4                                                                  0            41                     0
+tooltip5                                                                  0            41                     0
+tooltip6                                                                  0            41                     0
+tooltip7                                                                  0            47                     0
+tooltip8                                                                  0            48                     0
+tooltip9                                                                  0            40                     0
+tooltip10                                                                 0            44                     0
+tooltip11                                                                 0            48                     0
+tooltip12                                                                 0            55                     0
+tooltip13                                                                 0            40                     0
+tooltip14                                                                 0            41                     0
+tooltip15                                                                 0            41                     0
+tooltip16                                                                 0            47                     0
+tw_icon                                                                   0             0                     0
+Tween 1                                                                   0             0                     0
+Tween 3                                                                   0             0                     0
+video_controls_mc                                                         0             0                     0
+Video Play Pause Button                                                   0             0                     0
+Video Replay Button                                                       0             0                     0
+Video Scrubber                                                            0             0                     0
+Video Sound Toggle Button                                                 0             0                     0
+Video Stop Button                                                         0             0                     0
+whitebox                                                                 28             0                     0
+whitebox copy                                                             0             0                     0
+_text1                                                                    0           230                     0
+_text2                                                                    0           122                     0
+_text3                                                                    0            62                     0
+barlink                                                                  63             0                     0
+RIBBON                                                                    0             0                     0
+com.google.ads.studio.video.VideoPlayerAdvanced dependency 1             26             0                     0
+com.google.ads.studio.video.VideoPlayerAdvanced                           0             0                     0
+com.google.ads.studio.video.VideoPlayer dependency 1                      0             0                     0
+com.google.ads.studio.video.VideoPlayer                                   0             0                     0
+com.google.ads.studio.AssetLoader dependency 1                           24             0                     0
+com.google.ads.studio.AssetLoader                                         0             0                     0
+com.google.ads.studio.InvisibleExitButton dependency 1                   24             0                     0
+com.google.ads.studio.InvisibleExitButton                                 0             0                     0
+
+Font Name                       Bytes         Characters
+----------------------------    ----------    ----------
+TradeGothicLTStd-BdCn20 Bold          3162     '.01BDEFIMORVabcdefghiklmnorstuwy 
+TradeGothicLTStd-Cn18                 1904     ABCDEFHIKLMNOPRSTUVWY 
+
+ActionScript Bytes    Location
+------------------    --------
+             63259    Scene 1:Frame 1
+
+Bitmap                        Compressed    Original      Compression
+--------------------------    ----------    ----------    -----------
+SoundICON2.png                       126          1380    Lossless
+SoundICON.png                        305          1380    Lossless
+Floor_DEFAULT.jpg                  24331        500000    JPEG Quality=80
+FloorDeck_11.jpg                   22118        500000    JPEG Quality=80
+BUCKET_SLIDER.png                   3341         67536    JPEG Quality=80
+tooltipFORBUCKET.png                1142         19740    Lossless
+BucketARROWSWHEN-DRAGG.png            99           504    Lossless
+LOGO_300x250_EXPAND1.png            1894         29648    Lossless
+OPTION_BAR_NEW.png                   735         25216    Lossless
+DemoBTN_LIGHT.jpg                    681          7560    JPEG Quality=80
+COLOR_PICKER_300_2.png              1892         28832    JPEG Quality=80
+SQAURE-HIGHLIGHT.jpg                 239          2704    JPEG Quality=80
+BUBBLE_TOOLTIP.png                   264          9048    Lossless
+LONGER-TOOLTIP.png                   275         11336    Lossless
+COLOR_PICKER_300_1.png              1975         27136    JPEG Quality=80
+SOCIAL-ICONS.png                    1199          6132    Lossless
+Facebook_ROLLOVER.png                493          2116    Lossless
+Twitter_ROLLOVER.png                 555          2400    Lossless
+Pintrest_ROLLOVER.png                553          2800    Lossless
+
+
+
+
